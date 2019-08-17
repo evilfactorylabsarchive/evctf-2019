@@ -14,6 +14,13 @@ Basically the key was placed anywhere, so use your imagination.
 
 Try to execute `verify(someKey)` if you have known the right "key".
 
+## How to submit
+
+Try to DM evilfactorylabs at Twitter (@evilfactorylabs) if you don't use
+Twitter, you can reach us via Telegram [Fariz](https://t.me/faultable) or
+[Rin](https://t.me/ri7nz). Or if you don't use Twitter & Telegram, you can
+reach us via Instagram [@evilfactorylabs](https://instagram.com/evilfactorylabs).
+
 You will get some GOPAY balance if you successfully get the flag,
 good luck and having fun!
 
